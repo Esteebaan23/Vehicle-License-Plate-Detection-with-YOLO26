@@ -6,6 +6,9 @@ The system processes video input, detects vehicles and license plates, applies R
 
 ---
 
+## Overview
+![Pipeline Overview](Images/Demo.png)
+
 ## 🔍 Features
 
 - Vehicle detection using YOLO26  
