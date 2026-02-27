@@ -59,6 +59,7 @@ python main.py \
   --show
 ```
 ⚙️ Key Arguments
+---
 | Argument                | Description                                |
 | ----------------------- | ------------------------------------------ |
 | `--video`               | Path to input video                        |
@@ -75,7 +76,7 @@ python main.py \
 
 
 🏗 Applications
-
+---
 This pipeline can be applied to:
 
 - Toll systems
@@ -88,7 +89,9 @@ This pipeline can be applied to:
 Performance improves in controlled environments where vehicles briefly stop, enabling more reliable license plate reading.
 
 📌 Notes
+---
 OCR accuracy depends on lighting, motion, plate size, and image quality.
 
 📄 License
+---
 This project is intended for research and educational purposes.
